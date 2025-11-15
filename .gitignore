@@ -32,3 +32,6 @@ $RECYCLE.BIN/
 
 # Pyright
 pyrightconfig.json
+
+# Vim
+.swp
